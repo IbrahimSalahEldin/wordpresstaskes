@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-29 16:24+0545\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: inc/customizer/customizer.php:38
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "Disable Section Border"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:76
+msgid "Disable Featured Pages Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:85 inc/customizer/customizer.php:622
+msgid "Disable Section Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:94 inc/customizer/customizer.php:631
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:110 inc/customizer/customizer.php:647
+msgid "Section Title Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:138 inc/customizer/customizer.php:675
+msgid "Disable Section Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:147 inc/customizer/customizer.php:684
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/customizer.php:163 inc/customizer/customizer.php:700
+msgid "Section Description Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:191 inc/customizer/customizer.php:728
+msgid "Section Title and Description Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:197 inc/customizer/customizer.php:443
+#: inc/customizer/customizer.php:734 inc/customizer/customizer.php:961
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/customizer.php:198 inc/customizer/customizer.php:444
+#: inc/customizer/customizer.php:465 inc/customizer/customizer.php:735
+#: inc/customizer/customizer.php:962 inc/customizer/customizer.php:976
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/customizer.php:199 inc/customizer/customizer.php:445
+#: inc/customizer/customizer.php:736 inc/customizer/customizer.php:963
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/customizer.php:219
+msgid "Section Layout"
+msgstr ""
+
+#: inc/customizer/customizer.php:220
+msgid "Select layout & scroll below to change its options"
+msgstr ""
+
+#: inc/customizer/customizer.php:232
+msgid "Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:237 inc/customizer/customizer.php:762
+msgid "Select category"
+msgstr ""
+
+#: inc/customizer/customizer.php:239
+msgid "1 Column"
+msgstr ""
+
+#: inc/customizer/customizer.php:240
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:241
+msgid "3 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:242
+msgid "4 Columns"
+msgstr ""
+
+#: inc/customizer/customizer.php:248
+msgid "Page 1"
+msgstr ""
+
+#: inc/customizer/customizer.php:253
+msgid "Select Page 1"
+msgstr ""
+
+#: inc/customizer/customizer.php:266
+msgid "Page 2"
+msgstr ""
+
+#: inc/customizer/customizer.php:271
+msgid "Select Page 2"
+msgstr ""
+
+#: inc/customizer/customizer.php:284
+msgid "Page 3"
+msgstr ""
+
+#: inc/customizer/customizer.php:290
+msgid "Select Page 3"
+msgstr ""
+
+#: inc/customizer/customizer.php:302
+msgid "Page 4"
+msgstr ""
+
+#: inc/customizer/customizer.php:308
+msgid "Select Page 4"
+msgstr ""
+
+#: inc/customizer/customizer.php:320
+msgid "Featured Page Overlay Opacity"
+msgstr ""
+
+#: inc/customizer/customizer.php:334
+msgid "Height (in px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:335
+msgid ""
+"This option will only apply to Desktop. Please click on below Desktop Icon "
+"to see changes. Automatically adjust by theme default in the responsive "
+"devices.\n"
+"\t\t"
+msgstr ""
+
+#: inc/customizer/customizer.php:351 inc/customizer/customizer.php:544
+#: inc/customizer/customizer.php:915
+msgid "Choose Image Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:356 inc/customizer/customizer.php:549
+#: inc/customizer/customizer.php:920
+msgid "Select Image Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:362 inc/customizer/customizer.php:926
+msgid "Background Image Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:368 inc/customizer/customizer.php:932
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer.php:369 inc/customizer/customizer.php:933
+msgid "Pattern / Repeat"
+msgstr ""
+
+#: inc/customizer/customizer.php:370 inc/customizer/customizer.php:934
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/customizer.php:376
+msgid "Page Border Radius (px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:391
+msgid "Disable Page Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:400
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:421
+msgid "Page Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:437
+msgid "Page Title Horizontal Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:458
+msgid "Page Title Vertical Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:464 inc/customizer/customizer.php:975
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/customizer.php:466 inc/customizer/customizer.php:977
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/customizer.php:479
+msgid "Page Title Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:507
+msgid "Disable Featured Pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:524
+msgid "Blog Advertisement Banner"
+msgstr ""
+
+#: inc/customizer/customizer.php:531
+msgid "Advertisement Banner"
+msgstr ""
+
+#: inc/customizer/customizer.php:532
+msgid "Image dimensions 1230 by 100 pixels is recommended."
+msgstr ""
+
+#: inc/customizer/customizer.php:555
+msgid "Advertisement Banner Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:564
+msgid "Advertisement Banner Target"
+msgstr ""
+
+#: inc/customizer/customizer.php:565
+msgid "If enabled, the page will be open in an another browser tab."
+msgstr ""
+
+#: inc/customizer/customizer.php:574
+msgid "Disable Advertisement Banner"
+msgstr ""
+
+#: inc/customizer/customizer.php:606
+msgid "Featured Posts Two"
+msgstr ""
+
+#: inc/customizer/customizer.php:613
+msgid "Disable Featured Posts Two Section"
+msgstr ""
+
+#: inc/customizer/customizer.php:756
+msgid "Choose Category"
+msgstr ""
+
+#: inc/customizer/customizer.php:757
+msgid "Recent posts will show if any category is not chosen."
+msgstr ""
+
+#: inc/customizer/customizer.php:768
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:789
+msgid "Post Category Background Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:805
+msgid "Post Category Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:826
+msgid "Post Meta Text Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:859
+msgid "Post Meta Icon Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:892
+msgid "Post Hover Color"
+msgstr ""
+
+#: inc/customizer/customizer.php:901
+msgid "Posts Overlay Opacity"
+msgstr ""
+
+#: inc/customizer/customizer.php:940
+msgid "Posts Border Radius (px)"
+msgstr ""
+
+#: inc/customizer/customizer.php:955
+msgid "Post Content Horizontal Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:969
+msgid "Post Content Vertical Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:983
+msgid "Disable Post Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:992
+msgid "Post Title Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:1020
+msgid "Disable Posts category"
+msgstr ""
+
+#: inc/customizer/customizer.php:1029
+msgid "Post Category Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:1057
+msgid "Disable Post Date"
+msgstr ""
+
+#: inc/customizer/customizer.php:1066
+msgid "Disable Post Author"
+msgstr ""
+
+#: inc/customizer/customizer.php:1075
+msgid "Disable Post Comment"
+msgstr ""
+
+#: inc/customizer/customizer.php:1084
+msgid "Post Meta Typography"
+msgstr ""
+
+#: inc/customizer/customizer.php:1124
+msgid "Disable Featured Posts Two"
+msgstr ""
